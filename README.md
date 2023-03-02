@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FlexEbat
-- 👀 I’m interested in программированием
-- 🌱 I’m currently learning  в школе
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hola, im rus. learn c++, it's all
 
 <!---
 FlexEbat/FlexEbat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
