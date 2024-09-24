@@ -1,4 +1,4 @@
-hola, im rus. learn c++, it's all
+hola, im rus. learn python,js, it's all
 
 <!---
 FlexEbat/FlexEbat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
