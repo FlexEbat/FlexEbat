@@ -1,13 +1,44 @@
-こんにちは、私はC++とPythonのプログラマーです。
+**Приветствую на профиле самого бесполезного разработчика!**  
+Моя основная деятельность: **C++** и **Assembler**. Также занимаюсь чтением книг. 🕹️
 
-Welcome to the zone of darkness and madness. Look, but don't try to understand!
+---
 
-## My skills
-- 💻 Programming language: C++, Python
-- ⚡ Special skills: laughing, sleeping and shitting.
+## 🎯 О себе
+- **Пол**: men
+- **Интересы**: Python, C++, Assembler, психоделический моддинг, чтение книг и статей в интернетен
+- **Личное кредо**: "жру, сру, сплю 🦆"
 
-## Contact me ##
-[TG](tg.me/@lyblysiski) | [Twitter](https://x.com/pulaska1337)
+---
+
+## 🚀 Мои навыки
+![Python](https://img.shields.io/badge/-Python-blue)
+![C++](https://img.shields.io/badge/-C%2B%2B-orange)
+![HTML](https://img.shields.io/badge/-HTML-red)
+---
+
+## 🛠️ Избранные проекты
+
+### [Проект 1: Clean my Windows]([https://github.com/UltimateQuack/FNF-Mod](https://github.com/FlexEbat/cleanyourwindows))
+Очисти свою винду от накопившего мусора в пару кликов.
+
+### [Проект 2: Zapret 🚀]([https://github.com/UltimateQuack/RobloxGame](https://github.com/bol-van/zapret))
+Обход все возможных блокировок.
+
+---
+
+## 📝 Интересы и навыки
+
+| Интересы           | Навыки               |
+|--------------------|----------------------|
+| C++                |  C++                 |
+| Linux              |  PYTHON              |
+| Python             |  HTML/CSS/JS         |
+
+---
+
+## 📫 Контакты
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)]([https://twitter.com/UltimateQuack](https://x.com/pulaska1337))
+[![Discord](https://img.shields.io/badge/-Discord-7289DA)](@EblanNaLowTabe)
 
 
 
