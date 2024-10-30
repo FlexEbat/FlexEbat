@@ -18,10 +18,7 @@
 
 ## 🛠️ Избранные проекты
 ### [Clean My Windows ](https://github.com/FlexEbat/cleanyourwindows)
-Очисти свою винду от накопившего мусора в пару кликов 
-
-### [Zaprey](https://github.com/bol-van/zapret)
-Обход все возможных блокировок.
+### [Zapret](https://github.com/bol-van/zapret)
 
 
 ---
