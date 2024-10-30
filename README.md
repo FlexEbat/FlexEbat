@@ -1,6 +1,4 @@
 こんにちは、私はC++とPythonのプログラマーです。
-Добро пожаловать в зону мрака и безумия. Смотрите, но не пытайтесь понять!
-
 
 Welcome to the zone of darkness and madness. Look, but don't try to understand!
 
@@ -10,6 +8,7 @@ Welcome to the zone of darkness and madness. Look, but don't try to understand!
 
 ## Contact me ##
 [TG](tg.me/@lyblysiski) | [Twitter](https://x.com/pulaska1337)
+
 
 
 
