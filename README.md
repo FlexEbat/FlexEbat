@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Контакты
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)]([https://x.com/pulaska1337](https://x.com/pulaska1337))
+[![Twitter](https://x.com/pulaska1337)]([https://x.com/pulaska1337](https://x.com/pulaska1337))
 [![Discord](https://img.shields.io/badge/-Discord-7289DA)](@EblanNaLowTabe)
 
 
