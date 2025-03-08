@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying in hell.<br>Trying to help people.<br>Studying C, Python, ASM<br>Evil
+Studying in hell.<br>Trying to help people.<br>Studying C, Python<br>Evil
 
 
 ## 🌐 Socials:
