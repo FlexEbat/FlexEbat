@@ -5,7 +5,7 @@ Best of the worst in **Rust**, **C++**, **Python**. 🕹️
 ## 🚀 My skills
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-orange)
-![Rust]([https://img.shields.io/badge/-Rust-orange]
+[Rust](https://img.shields.io/badge/-Rust-orange)
 ---
 ## 🛠️ Selected projects
 ### [Clean My Windows ](https://github.com/FlexEbat/cleanyourwindows)
