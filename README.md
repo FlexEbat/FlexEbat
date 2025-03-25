@@ -1,5 +1,5 @@
 
-###**About me**
+**About me**
 
 Hi. I am a beginner programmer in C++ and Rust.
 I run a video blog on YouTube about the path to learning programming.
