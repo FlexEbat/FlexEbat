@@ -1,6 +1,6 @@
 
 ---
-**About me**
+*About me*
 Hi. I am a beginner programmer in C++ and Rust.
 I run a video blog on YouTube about the path to learning programming.
 I also have fun and make a game in Unreal Engine 5, I really like it, for me it's like a hobby, I think this is the main thing. After all, the main thing is to be sincere and enjoy what you do. If you like the process, then the path is definitely right, otherwise - you need to change the path.
