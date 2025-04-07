@@ -1,7 +1,7 @@
 
 **About me**
 
-Hi. I am a beginner programmer in C++ and Rust.
+Hi. I am a beginner programmer in C++ and C.
 I run a video blog on YouTube about the path to learning programming.
 I also have fun and make a game in Unreal Engine 5, I really like it, for me it's like a hobby, I think this is the main thing. After all, the main thing is to be sincere and enjoy what you do. If you like the process, then the path is definitely right, otherwise - you need to change the path.
 
@@ -11,7 +11,7 @@ My current project is a game on Unreal Engine 5. I use Blueprints for gameplay m
 
 **Techonology and tools**
 
-I use VScode, Gcc, Rust, C++, github, Unreal Engine 5.  At the moment there is a small amount of knowledge, but it clearly does not reach any decent level, so this is just the beginning. Further - more.
+I use VScode, Gcc, C, C++, github, Unreal Engine 5.  At the moment there is a small amount of knowledge, but it clearly does not reach any decent level, so this is just the beginning. Further - more.
 
 **My goals**
 
