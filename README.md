@@ -1,4 +1,4 @@
-# Hi, I'm FlexEbat 👋
+# im FlexEbat
 
 ## 🚀 About Me
 - antisocial, sad, bullshit, fuck you
@@ -8,7 +8,7 @@
 ---
 
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,bash,linux,git,rust)
+![My Skills](https://skillicons.dev/icons?i=rust)
 
 ---
 
