@@ -1,6 +1,4 @@
-# im FlexEbat
 
-## 🚀 About Me
 - antisocial, sad, bullshit, fuck you
 - light programs, then less and less  
 - learning rust / Self-deprecation
