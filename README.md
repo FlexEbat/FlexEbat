@@ -31,3 +31,35 @@ It's 2026, and I'm still stuck within my four walls. The outside world only make
 ---
 
 I'm sitting in Rust, writing code no one will see, wearing a skirt no one will appreciate. The world outside is legacy code that I'm afraid to touch for fear of ruining everything. My lifespan is running out, and I still haven't figured out pointers to happiness. Database? Yes. Cringe? Obviously. I'll go make some instant noodles; this is my only main().
+
+---
+
+```ascii
+_....._
+   /  O O  \
+  |   .---. |
+  |  /     \|
+   \ \_____/
+    `-----`
+```
+
+---
+
+The world of 2026 is just a broken interface to the void. While the normies are dividing up job openings and mortgages, I'm sharing my last can of energy drink with my own reflection in a switched-off monitor. My social skills have atrophied to the level of a single-celled organism, but at least my legs are perfectly shaved. Is there some kind of higher justice in this, or am I just completely nuts? But who cares if someone on Discord is wrong again?
+
+---
+
+```ascii
+_  _  _  _  _  _  _  _  _  _  _  _
+  |_||_||_||_||_||_||_||_||_||_||_||_|
+  |_|  _   _   _   _   _   _   _   |_|
+  |_| |_| |_| |_| |_| |_| |_| |_|  |_|
+  |_|      C R I N G E . E X E      |_|
+  |_|  _   _   _   _   _   _   _   |_|
+  |_| |_| |_| |_| |_| |_| |_| |_|  |_|
+  |_||_||_||_||_||_||_||_||_||_||_||_|
+```
+
+---
+
+Holy Wi-Fi, save me from calls from unknown numbers and neighbors with jackhammers. Grant me an endless supply of chips and that my nightmares are at least in 4K. Amen.
