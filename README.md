@@ -14,9 +14,11 @@
 
 Sup, dvach. Another unemployed 20-level kun in the thread. Got into femboyism because irl kuns are a scam, and tyan is a mass media myth. My mom thinks I'm looking for a job, but I'm sitting in stockings, checking out the sucker archives, guzzling the cheapest energy drink. My social skills are zero, and going to the store for bread is like a boss fight in Dark Souls, only without saves. Are there any other idiots here, or am I the only one out of this rotten IT world? Good.
 
+---
+
 ```ascii
 
-_______
+      _______
     /        \
    |  (.) (.) |
    |     ^    |
