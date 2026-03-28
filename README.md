@@ -20,3 +20,14 @@ It's 2026, and I'm still stuck within my four walls. The outside world only make
 
 ---
 
+```ascii      
+     | |     
+  ___| |___  
+ |___   ___| 
+     | |     
+     |_|
+```
+
+---
+
+I'm sitting in Rust, writing code no one will see, wearing a skirt no one will appreciate. The world outside is legacy code that I'm afraid to touch for fear of ruining everything. My lifespan is running out, and I still haven't figured out pointers to happiness. Database? Yes. Cringe? Obviously. I'll go make some instant noodles; this is my only main().
